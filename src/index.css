@@ -1,0 +1,33 @@
+
+
+
+
+.Slide-Image{
+    border-radius: 20px;
+    height: 400px;
+    width: 400px;
+    padding: 20px;
+}
+
+.main-card-con{
+    background-color: #ffffff;
+}
+
+
+
+.jus-con h1 {
+    width: 100%;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-size: 24px;
+}
+.jus-con h2 {
+    text-align: center;
+    margin: 20px 0px;
+    padding: 10px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+
